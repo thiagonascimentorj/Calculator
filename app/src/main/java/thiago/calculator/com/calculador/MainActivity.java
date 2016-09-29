@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
     private int numberOne;
     private int numberTwo;
     private int result;
+    private float resultFloat;
 
 
     @Override
@@ -45,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
                     numberOne = Integer.parseInt(edtValue1.getText().toString());
                     numberTwo = Integer.parseInt(edtValue2.getText().toString());
                     result = numberOne + numberTwo;
-                    Toast.makeText(MainActivity.this, "The result is:" + result, Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "The result is: " + result, Toast.LENGTH_SHORT).show();
                 }
             }
         });
@@ -62,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
                     numberOne = Integer.parseInt(edtValue1.getText().toString());
                     numberTwo = Integer.parseInt(edtValue2.getText().toString());
                     result = numberOne - numberTwo;
-                    Toast.makeText(MainActivity.this, "The result is:" + result, Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "The result is: " + result, Toast.LENGTH_SHORT).show();
                 }
             }
         });
@@ -78,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
                     numberOne = Integer.parseInt(edtValue1.getText().toString());
                     numberTwo = Integer.parseInt(edtValue2.getText().toString());
                     result = numberOne * numberTwo;
-                    Toast.makeText(MainActivity.this, "The result is:" + result, Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "The result is: " + result, Toast.LENGTH_SHORT).show();
                 }
             }
         });
@@ -88,21 +89,22 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 if( edtValue1.getText().toString().equals("")  && edtValue2.getText().toString().equals(""))
                     Toast.makeText(MainActivity.this, "Enter the value 1 and value 2 to perform the calculation.", Toast.LENGTH_SHORT).show();
-               else if( edtValue1.getText().toString().equals("")   || edtValue2.getText().toString().equals(""))
+                else if( edtValue1.getText().toString().equals("")   || edtValue2.getText().toString().equals(""))
                     Toast.makeText(MainActivity.this, "Fill in the empty field", Toast.LENGTH_SHORT).show();
                 else {
                     numberOne = Integer.parseInt(edtValue1.getText().toString());
                     numberTwo = Integer.parseInt(edtValue2.getText().toString());
 
-                    if(numberOne < 1 || numberTwo <1 )
+                    if(numberTwo == 0)
                         Toast.makeText(MainActivity.this, "ERROR!", Toast.LENGTH_SHORT).show();
                     else   {
-                        result = numberOne / numberTwo;
-                        Toast.makeText(MainActivity.this, "The result is:" + result, Toast.LENGTH_SHORT).show();
+                        resultFloat = (float)numberOne / (float)numberTwo;
+                        Toast.makeText(MainActivity.this, "The result is: " + resultFloat, Toast.LENGTH_SHORT).show();
                     }
                 }
             }
         });
+
         bClear.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
