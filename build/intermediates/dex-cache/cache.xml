@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_39b1c9a8e7fb3471f78192a5b81119b78ca1f50b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_f47f212d1f5a5ff29d0fad7447f20531809a95fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_7c0b3865ee760b25f3648065864d6ccd8cf73c1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mauricio\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_65c7c0fd9f1d34d57667c98e95a98809813ffc1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a66bae22b1439927d3c51c3efd980f835540405e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_d4760a4a818348158f22bd0d87e27f6d6892af1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_2109f3447a8578408d1bb9c093a8d2389f33eac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_0bb71afe46b9f97e3d8d211d427ba52be9683870.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_dccb205cde4933437c3afc32164b3d04b033ea5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6690928300eb4bbb4fcba344912d95b888c9c83b">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9799f0b7656a86054a1df92287493b05523cb666.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6dd98ccd357847c0a31a702ab092d8740e781c62">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\pre-dexed\debug\instant-run_86d3bf7a75ce7d8359082e8e3ab56f7d289b527b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_aab877a49ed067d7d55a54811fb0056e90ba4b89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_39c8e691b9ceec33a77f55a3bcc60787e16490b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_2a0e419591f8d222ea9a8ed0141d2d867e31a29f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_bedd816dd30f54eece0482599bb48404a37fb41b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_2a0ee8e09ae0a4192f896de3b008ef33cde223ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Mauricio\AndroidStudioProjects\03 - FORKS\Calculator\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_e87cc2f55e57bc0459621f67d47db0bf370a657e.jar" />
+    </item>
+
+</items>
